@@ -104,6 +104,6 @@ EverShop is an open-source project. We are committed to a fully transparent deve
 
 Please refer to our [Contribution Guidelines](./CONTRIBUTING.md) and [Code of Conduct](./CODE_OF_CONDUCT.md).
 
-## License
+## License ##
 
 [GPL-3.0 License](https://github.com/evershopcommerce/evershop/blob/main/LICENSE)
