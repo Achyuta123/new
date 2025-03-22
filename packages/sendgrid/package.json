@@ -17,7 +17,11 @@
   },
   "homepage": "https://github.com/evershopcommerce/evershop/tree/main/packages/sendgrid",
   "dependencies": {
-    "@sendgrid/mail": "^7.7.0"
+    "@sendgrid/mail": "^8.1.1",
+    "axios": "1.6.8",
+    "cypress": "13.7.0",
+    "npm": "10.5.0",
+    "sharp": "0.33.2"
   },
   "engines": {
     "node": ">= 14.0.0"
